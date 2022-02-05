@@ -5,7 +5,7 @@
 
 - 🔭My GOAL is to become **Full-Stack .NET Developer**
 
-- 🌱 I’m currently learning **C# Web Development**
+- 🌱 I’m currently learning **C# Advanced/OOP**
 
 <p align="left">
 
