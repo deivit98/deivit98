@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deivit98&label=Profile%20views&color=0e75b6&style=flat" alt="deivit98" /> </p>
 
-- 🔭My GOAL is to become **Full-Stack .NET Developer**
+- 🔭My GOAL is to become **Full-Stack Developer**
 
 - 🌱 I’m currently learning **C# Advanced/OOP**
 
